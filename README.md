@@ -1,2 +1,2 @@
-# responsiwe-mail-template
-This is an example of the responsiwe mail template
+# responsive-mail-template
+This is an example of the responsive mail template
